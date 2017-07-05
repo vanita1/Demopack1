@@ -1,0 +1,6 @@
+export("Demopack1")
+
+import(readr)
+import(dplyr)
+import(magrittr)
+import(maps)
